@@ -12,7 +12,7 @@ import java.util.concurrent.atomic.AtomicInteger;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-public class Test {
+public class Test2 {
     public static AtomicInteger atomicInteger = new AtomicInteger(0);
     public  final static  List<String> list = new ArrayList<>();
     public static ExecutorService service = Executors.newFixedThreadPool(2000);
@@ -105,7 +105,8 @@ public void r(){
 
 
 }
-class Task2 implements Runnable{
+
+class Task3 implements Runnable{
 
     @Override
     public void run() {
