@@ -2,7 +2,6 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/commons/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/commons/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-diners/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-diners/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-gateway/src/main/java" charset="UTF-8" />
@@ -13,7 +12,5 @@
     <file url="file://$PROJECT_DIR$/ms-regist/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-seckil/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-seckil/src/main/resources" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
   </component>
 </project>
