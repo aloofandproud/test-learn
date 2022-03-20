@@ -39,10 +39,9 @@ public class Test {
         System.out.println(2222);
         System.out.println(333333);
     }
+
     public static void www(){
         System.out.println(33333);
-    }
-    public static void www(){
         System.out.println(88888);
     }
 
