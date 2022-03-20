@@ -29,7 +29,8 @@ public class Test {
         List<Sku> result  = CartService.filterSkus(cartSkuList,(Sku sku)->sku.getTotalPrice()>1000);
         System.out.println(result.toString());
     }
+
     public static void main(String[] args) {
-        filterSkus2();
+        System.out.println(1111);
     }
 }
