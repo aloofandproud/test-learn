@@ -38,6 +38,9 @@ public class Test {
         System.out.println(1111111111);
         System.out.println(2222);
     }
+    public static void www(){
+        System.out.println(88888);
+    }
 
 
 }
