@@ -37,6 +37,10 @@ public class Test {
     public static void xxx(){
         System.out.println(1111111111);
         System.out.println(2222);
+        System.out.println(333333);
+    }
+    public static void www(){
+        System.out.println(33333);
     }
     public static void www(){
         System.out.println(88888);
