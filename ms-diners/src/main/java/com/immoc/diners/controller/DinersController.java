@@ -28,6 +28,8 @@ public class DinersController {
     @GetMapping("checkPhone")
     public ResultInfo checkPhone(String phone){
         System.out.println(11111);
+        System.out.println(11111111);
+        System.out.println(2222222);
         dinerService.checkPhoneIsRegisterd(phone);
         return ResultInfoUtil.buildSuccess(request.getServletPath());
     }
