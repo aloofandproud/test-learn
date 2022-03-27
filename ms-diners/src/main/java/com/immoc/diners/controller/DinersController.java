@@ -31,6 +31,7 @@ public class DinersController {
         System.out.println(11111111);
         System.out.println(2222222);
         System.out.println(333333333);
+        System.out.println(44444444);
         dinerService.checkPhoneIsRegisterd(phone);
         return ResultInfoUtil.buildSuccess(request.getServletPath());
     }
